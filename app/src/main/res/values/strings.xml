@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cipherApp</string>
+    <string name="caesar">ШИФР ЦЕЗАРЯ</string>
+    <string name="caesarMod">ШИФР ЦЕЗАРЯ+</string>
+    <string name="Change">ШИФР ЗАМЕНЫ</string>
+    <string name="back">НАЗАД</string>
+    <string name="enterText">Введите текст</string>
+    <string name="outputText">...</string>
+</resources>
